@@ -1,0 +1,56 @@
+[
+    {
+        "Description":"This recall involves multiple models of the BISSELL Steam Shot Handheld Steam Cleaners in the model series 39N7 and 2994. \"STEAM SHOT\" or \"POWER STEAMER\" is printed on the side of the product. The model numbers are printed on the product rating label located on the bottom of the unit. Colors include green, pink, blue, orange, white, black, purple and red.",
+        "RecallDate":"2024-07-18T00:00:00",
+        "URL":"https:\/\/www.cpsc.gov\/Recalls\/2024\/BISSELL-Recalls-More-Than-3-Million-Steam-Shot-Handheld-Steam-Cleaners-Due-to-Burn-Hazard",
+        "Manufacturers":[
+
+        ],
+        "RemedyOptions":"Refund",
+        "ProductName":"BISSELL\u00ae Steam Shot\u2122 Handheld Steam Cleaners",
+        "Model":"",
+        "Matched_Make":"bissel",
+        "Matched_Model":"steam shot",
+        "Matched_Year":2023,
+        "Make_Confidence":86,
+        "Model_Confidence":100
+    },
+    {
+        "Description":"This recall involves all Samsung Galaxy Note7 smartphones. The recalled devices have a 5.7-inch screen and were sold in the following colors: black onyx, blue coral, gold platinum and silver titanium with a matching stylus. Samsung is printed on the top front of the phone and Galaxy Note7 is printed on the back of the phone. This recall involves all Galaxy Note7 devices received as replacements as part of the previous Galaxy Note7 recall on September 15, 2016 and any Galaxy Note 7 with a green battery icon, regardless of date purchased or IMEI.",
+        "RecallDate":"2016-10-13T00:00:00",
+        "URL":"https:\/\/www.cpsc.gov\/Recalls\/2017\/Samsung-Expands-Recall-of-Galaxy-Note7-Smartphones-Based-on-Additional-Incidents-with-Replacement-Phones",
+        "Manufacturers":[
+            {
+                "Name":"Samsung Electronics America Inc., of Ridgefield Park, N.J.",
+                "CompanyID":""
+            }
+        ],
+        "RemedyOptions":"Refund",
+        "ProductName":"Samsung Galaxy Note7 smartphones",
+        "Model":"",
+        "Matched_Make":"samsung",
+        "Matched_Model":"galaxy",
+        "Matched_Year":2022,
+        "Make_Confidence":100,
+        "Model_Confidence":100
+    },
+    {
+        "Description":"This recall involves the Samsung Galaxy Note7 smartphone sold before September 15, 2016. The recalled devices have a 5.7 inch screen and were sold in the following colors: black onyx, blue coral, gold platinum and silver titanium with a matching stylus. Samsung is printed on the top front of the phone and Galaxy Note7 is printed on the back of the phone. To determine if your phone has been recalled, locate the IMEI number on the back of the phone or the packaging, and enter the IMEI number into the online registration site www.samsung.com or call Samsung toll-free at 844-365-6197.",
+        "RecallDate":"2016-09-15T00:00:00",
+        "URL":"https:\/\/www.cpsc.gov\/Recalls\/2016\/Samsung-Recalls-Galaxy-Note7-Smartphones",
+        "Manufacturers":[
+            {
+                "Name":"Samsung Electronics America Inc., of Ridgefield Park, N.J.",
+                "CompanyID":""
+            }
+        ],
+        "RemedyOptions":"Replace",
+        "ProductName":"Samsung Galaxy Note7 smartphones sold prior to September 15, 2016",
+        "Model":"",
+        "Matched_Make":"samsung",
+        "Matched_Model":"galaxy",
+        "Matched_Year":2022,
+        "Make_Confidence":100,
+        "Model_Confidence":100
+    }
+]
